@@ -1,0 +1,6 @@
+{
+  "name": "AirPods Control",
+  "description": "Control features like ANC, Spatial Audio, and Auto Pause for your wireless earbuds. Includes a Quick Settings tile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
